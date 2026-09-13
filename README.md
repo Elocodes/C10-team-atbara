@@ -192,6 +192,24 @@ Execute `scripts/phase8_semantic.ipynb` sequentially. The script will train the 
 - [GitHub](https://github.com/Sheree1986)
 </details>
 
+<details>
+  <summary>
+    <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Faith Kasunga</span>
+    </summary>
+
+- [LinkedIn](https://www.linkedin.com/in/sheree-edmund)
+- [GitHub](https://github.com/Sheree1986)
+</details>
+
+<details>
+  <summary>
+    <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Sheila Nalweyiso </span>
+    </summary>
+
+- [LinkedIn](https://www.linkedin.com/in/sheree-edmund)
+- [GitHub](https://github.com/Sheree1986)
+</details>
+
 ---
 
 ### Team Atbara's results on Kaggle
