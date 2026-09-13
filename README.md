@@ -162,8 +162,35 @@ Execute `scripts/phase8_semantic.ipynb` sequentially. The script will train the 
 * **Special thanks** to the team for the iterative experiments and optimization breakthroughs that pushed our validation metric to **0.92**!
 
 #### Team Atbara Members
-[Justina Odoeze - Team Leader](https://www.linkedin.com/in/elochukwuodoeze)
+<details>
+  <summary>
+    <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Justina Odoeze</span>
+    <code style="color: #0c0d0e; background-color: #729ace; padding: 2px 6px; border-radius: 4px; font-size: 0.95em;">Team Leader</code>
+  </summary>
 
+- [LinkedIn](https://www.linkedin.com/in/elochukwuodoeze)
+- [GitHub](https://github.com/Elocodes)
+</details>
+
+<details>
+  <summary>
+    <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Nzube Ohalete</span>
+    <code style="color: #0c0d0e; background-color: #729ace; padding: 2px 6px; border-radius: 4px; font-size: 0.95em;">Team Leader 2</code>
+    </summary>
+
+- [LinkedIn](https://www.linkedin.com/in/nzube-ohalete)
+- [GitHub](https://github.com/Profzubbyd)
+</details>
+
+
+<details>
+  <summary>
+    <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Sheree Edmund</span>
+    </summary>
+
+- [LinkedIn](https://www.linkedin.com/in/sheree-edmund)
+- [GitHub](https://github.com/Sheree1986)
+</details>
 
 ---
 

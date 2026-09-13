@@ -1,0 +1,11 @@
+numpy
+pandas
+torch
+transformers
+scikit-learn
+tqdm
+sentencepiece
+tokenizers
+safetensors
+ipython
+jupyter
