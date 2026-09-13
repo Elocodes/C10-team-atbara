@@ -197,8 +197,8 @@ Execute `scripts/phase8_semantic.ipynb` sequentially. The script will train the 
     <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Faith Kasunga</span>
     </summary>
 
-- [LinkedIn](https://www.linkedin.com/in/sheree-edmund)
-- [GitHub](https://github.com/Sheree1986)
+- [LinkedIn]()
+- [GitHub]()
 </details>
 
 <details>
@@ -206,8 +206,8 @@ Execute `scripts/phase8_semantic.ipynb` sequentially. The script will train the 
     <span style="color: #2563eb; font-weight: bold; font-size: 1.05em;">Sheila Nalweyiso </span>
     </summary>
 
-- [LinkedIn](https://www.linkedin.com/in/sheree-edmund)
-- [GitHub](https://github.com/Sheree1986)
+- [LinkedIn]()
+- [GitHub]()
 </details>
 
 ---
