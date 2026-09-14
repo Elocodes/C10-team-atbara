@@ -45,7 +45,7 @@ Our winning pipeline addresses two main challenges: a small, paraphrased dataset
 
 ### 2. Synthetic Augmentation & Diagnostic Insights
 
-We generated 1,520 synthetic variations across four distinct writing styles (*short direct, narrative emotional, informal slang, formal technical*). Controlled benchmarking revealed that while additional text variations did not improve generalization over our clean baseline (0.7105 vs 0.7019 F1), the error analysis illuminated the model's true bottleneck: **confusion across specific intent boundaries** rather than vocabulary limitations[cite: 1].
+We generated 1,520 synthetic variations across four distinct writing styles (*short direct, narrative emotional, informal slang, formal technical*). Controlled benchmarking revealed that while additional text variations did not improve generalization over our clean baseline (0.7105 vs 0.7019 F1), the error analysis illuminated the model's true bottleneck: **confusion across specific intent boundaries** rather than vocabulary limitations.
 
 ### 3. Structured Test-Family Aggregation
 
@@ -99,7 +99,7 @@ The model automatically classifies incoming text into one of 10 standardized cat
 
 ```text
 ├── data/                       
-│   ├── scraped_train_data       # external scraped dataset. 14.2k rows
+│   ├── scraped_train_data       # external scraped dataset. 13.5k rows
 │   ├── comp_data                # folder contains the provided competition dataset
 ├── scripts/
 │   └── phase8_semantic.ipynb    # Family reconstruction & final guardrails
